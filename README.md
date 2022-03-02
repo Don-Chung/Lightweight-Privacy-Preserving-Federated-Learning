@@ -5,16 +5,21 @@ Four folders here:
 
    LPF_Fmnist (Our scheme): It uses Fashion-MNIST data-sets; Including static and dynamic simulations
 
+   LPF_Cifar10 (Our scheme): It uses Cifar10 data-sets; Including static and dynamic simulations
+
    LPF_notrain (Our scheme): it does not use data-sets to train, we give a dummy model
 
    LPF_notrain_ty (Ideal FL scheme) : it does not use data-sets to train, we give a dummy model
 
-   LPF_LPF_train_ty (Ideal FL scheme): It uses Fashion-MNIST data-sets
+   LPF_train_ty (Ideal FL scheme): It uses Fashion-MNIST data-sets
+
+   LPF_train_ty_Cifar10 (Ideal FL scheme): It uses Cifar10 data-sets
 
 ## Requirements
 
 - torch 1.4.0
 - Fashion-MNIST data-sets
+- Cifar10 data-sets
 
 ## Run
 
