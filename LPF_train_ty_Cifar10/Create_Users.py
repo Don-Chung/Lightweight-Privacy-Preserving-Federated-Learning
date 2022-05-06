@@ -25,7 +25,7 @@ def create_users(num, dir):
     if not os.path.exists(dir):
         os.makedirs(dir)
 
-    multi = 2
+    multi = 5
     size_o = (50000 // num) * multi
 
     dataset1 = torchvision.datasets.CIFAR10(root='./data', train=True,
