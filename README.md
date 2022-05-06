@@ -1,7 +1,7 @@
 # Lightweight-Privacy-Preserving-Federated-Learning
 ## Description:
 
-Four folders here:
+Six folders here:
 
    LPF_Fmnist (Our scheme): It uses Fashion-MNIST data-sets; Including static and dynamic simulations
 
